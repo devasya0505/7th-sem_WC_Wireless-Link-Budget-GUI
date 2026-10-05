@@ -1,0 +1,16 @@
+Metric / Parameter,Wi-Fi 6 (802.11ax) 2.4 GHz Indoor/Campus,Wi-Fi 6 (802.11ax) 5 GHz High-Throughput,4G LTE Urban Macro Cell (1800 MHz Band 3),5G NR FR2 mmWave Link (28 GHz),GEO Satellite Ku-band TV / Data Downlink,LEO Satellite Broadband Downlink (550 km Ku/Ka),LoRaWAN Long-Range Sub-GHz IoT (EU 868 MHz),"Telecom Microwave Backhaul Link (18 GHz, 10 km)"
+Carrier Frequency (MHz),2437.0,5180.0,1800.0,28000.0,12000.0,12500.0,868.0,18000.0
+Link Distance (km),0.080,0.050,2.000,0.300,36000.000,750.000,5.000,10.000
+Path Loss Model,Log-Distance Model,Log-Distance Model,COST-231 Hata Model,Free Space Path Loss (FSPL),Free Space Path Loss (FSPL),Free Space Path Loss (FSPL),Okumura-Hata Model,Free Space Path Loss (FSPL)
+Tx Power (dBm),20.0,23.0,43.0,30.0,50.0,40.0,14.0,24.0
+EIRP (dBm),22.50,27.20,57.00,50.50,86.50,71.00,15.95,64.00
+Total Path Loss (dB),113.27,123.09,167.74,129.43,215.05,182.58,139.77,178.75
+Rx Antenna Gain (dBi),2.00,3.00,0.00,12.00,39.50,34.00,5.00,42.00
+Received Power Prx (dBm),-89.27,-93.39,-110.74,-67.93,-90.05,-78.08,-119.82,-74.75
+Rx Sensitivity (dBm),-82.00,-75.00,-100.00,-86.00,-115.00,-105.00,-137.00,-78.00
+Link Margin (dB),-7.27,-18.39,-10.74,+18.07,+24.95,+26.92,+17.18,+3.25
+Link Status,FAIL,FAIL,FAIL,PASS,PASS,PASS,PASS,PASS
+Noise Floor (dBm),-94.96,-87.94,-93.96,-78.95,-99.78,-90.07,-118.01,-91.99
+SNR (dB),5.70,-5.45,-16.78,11.03,9.73,11.99,-1.81,17.25
+Max Achievable Dist (km),0.046,0.013,0.982,2.404,50000.000,16637.573,14.834,14.546
+Shannon Capacity (Mbps),44.72,28.95,0.60,1509.33,121.56,1017.68,0.09,322.37

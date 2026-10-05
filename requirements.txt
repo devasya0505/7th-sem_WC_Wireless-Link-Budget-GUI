@@ -1,0 +1,10 @@
+# Wireless Link Budget GUI - Dependencies
+# Course: 3171608 - Wireless Communication (WC) Micro-Project
+
+matplotlib>=3.8.0
+numpy>=1.26.0
+reportlab>=4.0.0
+ttkbootstrap>=2.2.0
+pillow>=10.0.0
+pandas>=2.0.0
+scipy>=1.11.0
